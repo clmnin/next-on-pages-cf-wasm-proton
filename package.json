@@ -13,6 +13,7 @@
     "cf-typegen": "wrangler types --env-interface CloudflareEnv env.d.ts"
   },
   "dependencies": {
+    "@cf-wasm/photon": "^0.1.24",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
